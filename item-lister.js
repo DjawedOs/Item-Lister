@@ -6,7 +6,7 @@ const filter = document.getElementById('filter');
 
 form.addEventListener('submit',addItem);
 
-// Dlete event 
+// Delete event 
 
 itemList.addEventListener('click',removeItem)
 
